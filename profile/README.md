@@ -1,5 +1,8 @@
-## Hi there 👋
+# ZetFlight
+## We develop Hardware & Software Products for Gliding Simulation
 
+### About Us
+At ZetFlight, we are committed to delivering high-quality products for the gliding simulation market. Our focus is on developing hardware and software solutions that enhance the virtual flying experience. Our goal is to bring the excitement and realism of gliding to life, offering a comprehensive and authentic simulation experience for enthusiasts of all levels. We strive to offer innovative solutions that bridge the gap between virtual and actual flight, providing a realistic and enjoyable experience for all. Whether you're looking to improve your skills or simply enjoy the thrill of flight, ZetFlight is dedicated to providing the products and technology to help you soar.
 <!--
 
 **Here are some ideas to get you started:**
